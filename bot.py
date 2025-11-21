@@ -5,7 +5,7 @@ from telegram import Update, ReplyKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, filters, ContextTypes
 
 # Admin ID
-ADMIN_ID = 123456789  # Bu yerga sizning Telegram ID'ingiz
+ADMIN_ID = 6887251996 # Bu yerga sizning Telegram ID'ingiz
 
 # Foydalanuvchilarni yuklash
 try:
@@ -104,7 +104,7 @@ def save_users():
 
 # Main
 async def main():
-    TOKEN = "BOT_TOKENINGIZNI_BU_YERGA_QOYING"
+    TOKEN = "8504094462:AAGFn1wk-fA5ueBXzaqQhR3dx14JSfJ4Lfk"
     app = ApplicationBuilder().token(TOKEN).build()
 
     app.add_handler(CommandHandler("start", start))
