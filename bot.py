@@ -18,8 +18,8 @@ from telegram.ext import (
 )
 
 # ====== CONFIG ======
-TOKEN = os.environ.get("BOT_TOKEN")  # Render / env var orqali bering
-ADMIN_ID = int(os.environ.get("ADMIN_ID", "0"))  # Soni sifatida admin id
+TOKEN = ("8504094462:AAGFn1wk-fA5ueBXzaqQhR3dx14JSfJ4Lfk") # Render / env var orqali bering
+ADMIN_ID = ("6887251996")  # Soni sifatida admin id
 USERS_FILE = "users.json"
 ONLINE_SECONDS = 300  # "Online" deb hisoblash uchun oxirgi faollik (sekundlarda)
 # ====================
