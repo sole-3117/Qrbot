@@ -8,8 +8,8 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # ===== CONFIG =====
-TOKEN = "SIZNING_BOT_TOKEN"  # O'z TOKENingizni shu yerga yozing
-ADMIN_ID = 123456789  # O'z Telegram ID raqamingiz
+TOKEN = "8504094462:AAGFn1wk-fA5ueBXzaqQhR3dx14JSfJ4Lfk"  # O'z TOKENingizni shu yerga yozing
+ADMIN_ID = 6887251996  # O'z Telegram ID raqamingiz
 USERS_FILE = "users.json"
 ONLINE_SECONDS = 300  # onlayn deb hisoblash vaqti
 
