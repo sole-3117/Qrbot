@@ -1,3 +1,2 @@
-python-telegram-bot==21.6
-qrcode
-Pillow==10.4.0
+BOT_TOKEN=8504094462:AAGFn1wk-fA5ueBXzaqQhR3dx14JSfJ4Lfk
+ADMIN_ID=6887251996
