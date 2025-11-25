@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "qrbot"
+version = "0.1.0"
+description = "QR code bot"
+authors = ["Solejon <solejonadashov@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+aiogram = "3.4.1"
+pydantic = "2.4.2"
+python-dotenv = "^1.2.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
